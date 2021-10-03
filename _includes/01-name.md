@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# <h1> heading 1
+## <h2> heading 2
+### <h3> heading 3
